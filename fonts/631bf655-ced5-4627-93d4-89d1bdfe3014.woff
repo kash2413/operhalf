@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="it-IT" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="it-IT" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="it-IT" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="it-IT" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <title>Pagina non trovata | Dietor</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    
+<!-- This site is optimized with the Yoast SEO plugin v6.0 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="noindex,follow">
+<meta property="og:locale" content="it_IT">
+<meta property="og:type" content="object">
+<meta property="og:title" content="Pagina non trovata | Dietor">
+<meta property="og:site_name" content="Dietor">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Pagina non trovata | Dietor">
+<meta name="twitter:site" content="@dietoritalia">
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.dietor.it\/","name":"Dietor","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.dietor.it\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Organization","url":false,"sameAs":["https:\/\/www.facebook.com\/DietorItalia","https:\/\/twitter.com\/dietoritalia"],"@id":"#organization","name":"Dietor","logo":""}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="dns-prefetch" href="//ajax.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"\/cms\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.3"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" href="../css/wpp.css">
+<link rel="stylesheet" href="../css/default.min.css">
+<link rel="stylesheet" href="../css/app.css">
+<link rel="stylesheet" href="../css/cookie.css">
+<script type="text/javascript" src="../js/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="https://www.dietor.it/assets/js/vendor/jquery-1.10.1.min.js"><\/script>')</script>
+<script type="text/javascript" src="../js/modernizr-2.6.2.min.js"></script>
+<link rel="https://api.w.org/" href="https://www.dietor.it/wp-json/">
+<style>/* CSS added by WP Meta and Date Remover*/.entry-meta {display:none !important;}
+	.home .entry-meta { display: none; }
+	.entry-footer {display:none !important;}
+	.home .entry-footer { display: none; }</style>		<style type="text/css" id="wp-custom-css">
+			.navbar .brand {
+	background-image: url("../images/LOGO-myDietor-noPAYOFF.png");
+}
+
+.homepage .dietor-converter--content .converter-header small {
+	
+	display: block;
+	
+}
+
+.updated {
+	display: none;
+}
+
+.pt-cv-meta-fields { 
+
+	display: none;
+
+}
+		</style>
+		<!--[if IE]>
+	<style type="text/css">
+		.blog .sidebar, .single .sidebar, .archive .sidebar, .search .sidebar, .la-vostra-idea-di-natura .sidebar {
+			margin-top: 0px;
+		}
+	</style>
+	<![endif]-->
+    <link rel="alternate" type="application/rss+xml" title="Dietor Feed" href="https://www.dietor.it/feed/">
+  	<meta property="og:description" content="Scoprite il mondo Dietor. Entrate nella nostra community Cuor di Stevia.">
+
+</head>
+<body class="error404">
+
+  <div id="fb-root"></div>
+<!-- Google Tag Manager -->
+<noscript>
+  <iframe src="../ns.html" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-KK3955');
+</script>
+<!-- End Google Tag Manager -->
+<header class="banner navbar navbar-static-top" role="banner">
+  <div class="navbar-inner">
+    <div class="container">
+      <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </a>
+      <a class="brand" href="https://www.dietor.it/">
+        Dietor      </a>
+      <nav class="nav-main nav-collapse collapse" role="navigation">
+        <ul id="menu-navigazione-principale" class="nav"><li class="menu-cerca"><form role="search" method="get" id="searchform" class="form-search navbar-form  pull-right" action="https://www.dietor.it/">
+    <label class="hide" for="s">Cerca:</label>
+    <div class="input-append input-prepend">
+        <span class="add-on"><i class="icon-search"></i></span>
+        <input type="text" value name="s" id="s" class="span1" style="width: 100px;" placeholder="Cerca">
+        <button type="submit" id="searchsubmit" value="Cerca" class="btn">Cerca</button>
+    </div>
+</form>
+</li><li class="menu-home"><a href="https://www.dietor.it/">Home</a></li>
+<li class="active menu-blog"><a href="https://www.dietor.it/il-blog-cuor-di-stevia/">Blog</a></li>
+<li class="dropdown menu-informa"><a href="http://dietor.it/informa/">InForma</a>
+<ul class="dropdown-menu">
+	<li class="menu-mantenersi-in-forma"><a href="http://www.dietor.it/informa/mantenersi-in-forma/">Mantenersi in forma</a></li>
+	<li class="menu-il-cibo-che-nutre"><a href="http://www.dietor.it/informa/il-cibo-che-nutre/">Il cibo che nutre</a></li>
+	<li class="menu-la-cucina-light"><a href="http://www.dietor.it/informa/la-cucina-light/">La cucina light</a></li>
+	<li class="menu-spesa-intelligente"><a href="http://www.dietor.it/informa/spesa-intelligente/">Spesa intelligente</a></li>
+</ul>
+</li>
+<li class="menu-ricette"><a href="https://www.dietor.it/ricette/">Ricette</a></li>
+<li class="dropdown menu-prodotti"><a href="https://www.dietor.it/prodotti/">Prodotti</a>
+<ul class="dropdown-menu">
+	<li class="menu-mydietor-blu"><a href="https://www.dietor.it/prodotti/dietor-blu-bustine/">MyDietor Blu</a></li>
+	<li class="menu-mydietor-cuor-di-stevia"><a href="https://www.dietor.it/prodotti/cose-la-stevia/">MyDietor Cuor di Stevia</a></li>
+	<li class="menu-mydietor-bio"><a href="https://www.dietor.it/prodotti/mydietor-bio/">MyDietor Bio</a></li>
+	<li class="menu-mydietor-fruttil"><a href="https://www.dietor.it/prodotti/mydietor-fruttil-sfuso/">MyDietor Fruttil</a></li>
+</ul>
+</li>
+<li class="menu-faq"><a href="https://www.dietor.it/faq/">FAQ</a></li>
+</ul>      </nav>
+    </div>
+  </div>
+</header>
+
+  <div class="wrap container" role="document">
+    <div class="content row">
+      <div class="main span12" role="main">
+        <div class="page-header">
+  <h1>
+    Not Found  </h1>
+</div>
+<div class="alert">
+  Sorry, but the page you were trying to view does not exist.</div>
+
+<p>It looks like this was the result of either:</p>
+<ul>
+  <li>a mistyped address</li>
+  <li>an out-of-date link</li>
+</ul>
+
+<form role="search" method="get" id="searchform" class="form-search navbar-form  pull-right" action="https://www.dietor.it/">
+    <label class="hide" for="s">Cerca:</label>
+    <div class="input-append input-prepend">
+        <span class="add-on"><i class="icon-search"></i></span>
+        <input type="text" value name="s" id="s" class="span1" style="width: 100px;" placeholder="Cerca">
+        <button type="submit" id="searchsubmit" value="Cerca" class="btn">Cerca</button>
+    </div>
+</form>
+      </div><!-- /.main -->
+          </div><!-- /.content -->
+  </div><!-- /.wrap -->
+
+  <footer class="content-info" role="contentinfo">
+    <div class="container separator">
+        <hr>
+    </div>
+    <div class="container">
+        <div class="row">
+			<div class="span2 offset1">
+                <a href="https://grupposperlari.it">Chi siamo</a>
+            </div>
+            <div class="span2">
+                <a href="/parla-con-dietor/">Parla con Dietor</a>
+            </div>
+            <div class="span2">
+                <a href="/concorsi-e-promozioni/">Concorsi e promozioni</a>
+            </div>
+            <div class="span1">
+                <a href="https://grupposperlari.it/privacy/">Privacy</a>
+            </div>
+            <div class="span1">
+              <a href="https://grupposperlari.it/cookie-policy/" target="_blank">Cookies</a>
+            </div>
+            <div class="span1">
+                <a href="https://sperlaricareers.altamiraweb.com/" target="_blank">Careers</a>
+            </div>
+            <!-- <div class="span6">
+                <a href="http://dietor.it/cms/media/2014/01/RegolamentoVolaconDietor.pdf">Regolamento "Vola con Dietor"</a>
+            </div>
+            <div class="span6">
+                <a href="http://dietor.it/vola-con-dietor-ecco-come-partecipare/">Informazioni "Vola con Dietor"</a>
+            </div> -->
+            <div class="span12">
+                <p>&copy; 2021 Sperlari s.r.l con socio unico - Via Milano 16 - 26100 Cremona - R.E.A. CR N.163489 P.Iva e C.F. 01350470199 - Capitale Sociale € 25.000.000</p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script type="text/javascript" src="../js/cookie.enabler.min.js"></script>
+<script type="text/javascript" src="../js/plugins.js"></script>
+<script type="text/javascript" src="../js/main.js"></script>
+<script type="text/javascript" src="../js/wp-embed.min.js"></script>
+
+</body>
+</html>
